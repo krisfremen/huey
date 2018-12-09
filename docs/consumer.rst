@@ -150,7 +150,7 @@ short polling interval:
 
   huey_consumer.py my.app.huey -l /var/log/app.huey.log -w 8 -b 1.05 -m 1.0
 
-Running single-threaded with periodict task support disabled. Additionally,
+Running single-threaded with periodic task support disabled. Additionally,
 logging records are written to stdout.
 
 .. code-block:: bash
